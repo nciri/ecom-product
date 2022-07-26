@@ -27,7 +27,7 @@
     "prodDatabaseType": "mongodb",
     "reactive": true,
     "searchEngine": false,
-    "serverPort": "8081",
+    "serverPort": "8082",
     "serverSideOptions": ["messageBroker:kafka", "enableSwaggerCodegen:true"],
     "serviceDiscoveryType": "eureka",
     "skipCheckLengthOfIdentifier": false,
